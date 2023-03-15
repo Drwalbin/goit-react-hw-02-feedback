@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goit-ract-hw-feedback/static/css/main.e5ca7c16.css",
+    "main.js": "/goit-ract-hw-feedback/static/js/main.a860b2bc.js",
+    "index.html": "/goit-ract-hw-feedback/index.html",
+    "main.e5ca7c16.css.map": "/goit-ract-hw-feedback/static/css/main.e5ca7c16.css.map",
+    "main.a860b2bc.js.map": "/goit-ract-hw-feedback/static/js/main.a860b2bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5ca7c16.css",
+    "static/js/main.a860b2bc.js"
+  ]
+}
